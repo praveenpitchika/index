@@ -1,2 +1,1 @@
-# index
-my first web site
+# profile
